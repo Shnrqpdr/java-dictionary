@@ -1,0 +1,8 @@
+Branco, White, Blanco
+Cinza, Grey, Gris
+Janela, Window, Ventana
+Porta, Door, Puerta
+Preto, Black, Negro
+Solo, Ground, Suelo
+Verde, Green, Verde
+Vermelho, Red, Rojo
