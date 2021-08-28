@@ -3,7 +3,7 @@ package utilitaries;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
-import java.nio.file.Files;
+// import java.nio.file.Files;
 import java.util.ArrayList;
 
 import entity.Palavra;
@@ -12,7 +12,7 @@ public class Arquivo {
 	
 	public static boolean escreveArquivo(ArrayList<Palavra> words) {
 		
-		String path = "F:\\backup\\Projeto_Dicionario\\Dicionario\\src"; //trocar o caminho aqui.
+		String path = "C:\\Users\\pedro\\Documents\\Projetos\\Teste\\java-dictionary\\Dicionario\\src"; //trocar o caminho aqui.
 		
 		File arquivo = new File(path);
 		
